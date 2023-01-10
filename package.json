@@ -38,5 +38,13 @@
     "style-loader": "^2.0.0",
     "url-loader": "^4.1.1",
     "webpack-cli": "^4.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshitij-pandey/ddkkgga.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kshitij-pandey/ddkkgga/issues"
+  },
+  "homepage": "https://github.com/kshitij-pandey/ddkkgga#readme"
 }
